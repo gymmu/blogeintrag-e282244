@@ -28,3 +28,7 @@ h3 {
   width: 60px;
   position: relative; left: 630px;
 }
+
+div.text-center > ul {
+  list-style: none;
+}
