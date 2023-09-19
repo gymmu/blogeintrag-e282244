@@ -21,3 +21,10 @@ h3 {
   width: 500px;
   position: relative; left: 430px;
 }
+
+
+.text-smal {
+  text-align:center;
+  width: 60px;
+  position: relative; left: 630px;
+}
