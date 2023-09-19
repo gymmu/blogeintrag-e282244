@@ -19,7 +19,8 @@ h3 {
 .text-center {
   text-align:center;
   width: 500px;
-  position: relative; left: 420px;
+  margin:0 auto;
+  
 }
 
 
@@ -31,4 +32,5 @@ h3 {
 
 div.text-center > ul {
   list-style: none;
+  padding-left: 0;
 }
