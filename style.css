@@ -3,6 +3,10 @@ h1 {
   color: brown;
 }
 
+h2 {
+  text-align: center;
+}
+
 h3 {
   text-align: center;
 
@@ -24,12 +28,6 @@ h3 {
 }
 
 
-.text-smal {
-  text-align:center;
-  width: 60px;
-  position: relative; left: 630px;
-}
-
 div.text-center > ul {
   list-style: none;
   padding-left: 0;
@@ -38,4 +36,7 @@ div.text-center > ul {
 body {
   background-color: rgb(203, 242, 255);
  }
+
+
+
 
