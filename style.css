@@ -1,11 +1,42 @@
-*,
-*::before,
-*::after {
-  box-sizing: content-box;
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+
+}
+.img-center {
+  text-align: center;
+} 
+
+.img-center > img {
+   width: 30%;
+   border-radius: 25px;
+}
+
+.text-center {
+  text-align:center;
+  width: 500px;
+  margin:0 auto;
+  
+}
+
+
+div.text-center > ul {
+  list-style: none;
+  padding-left: 0;
 }
 
 body {
-  margin: 0;
-  background-color: lightgray;
-  font-family: sans-serif;
-}
+  background-color: rgb(203, 242, 255);
+ }
+
+
+
+
